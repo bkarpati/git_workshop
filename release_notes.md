@@ -1,5 +1,9 @@
 # Release notes
 
+## v0.0.3 - In progress
+
+- Added the `cone` functionality to support data export
+
 ## v0.0.2 - 2022-06-16
 
 - Added the `crown` module as a base for all the high level functionalities
