@@ -1,9 +1,10 @@
 # Release notes
 
-## v0.0.2 - In progress
+## v0.0.2 - 2022-06-16
 
 - Added the `crown` module as a base for all the high level functionalities
 - Added `branches` to the `crown` module
+- Added the `leaves` functionality to the `crown` module
 
 ## v0.0.1 - 2022-06-09
 
