@@ -1,5 +1,9 @@
 # Release notes
 
+## v0.0.2 - In progress
+
+ - Added the `crown` module as a base for all the high level functionalities
+
 ## v0.0.1 - 2022-06-09
 
 - Added the `roots` module to enable low-level interactions with the environment
