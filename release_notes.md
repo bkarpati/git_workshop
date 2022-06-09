@@ -2,7 +2,8 @@
 
 ## v0.0.2 - In progress
 
- - Added the `crown` module as a base for all the high level functionalities
+- Added the `crown` module as a base for all the high level functionalities
+- Added `branches` to the `crown` module
 
 ## v0.0.1 - 2022-06-09
 
