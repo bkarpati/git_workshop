@@ -25,3 +25,8 @@ blablabla
 Store water 101
 When: now
 main
+
+ _._     _,-'""`-._
+(,-.`._,'(       |\`-/|
+    `-.-' \ )-`( , o o)
+          `-    \`_`"'-
