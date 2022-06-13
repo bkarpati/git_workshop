@@ -14,3 +14,7 @@ Greatly improve resistance to overheating in fire situation.
 ### Reduced sap content
 
 Keeping the `bark` dry means we leave less opportunities for things to catch on fire.
+
+### Bleach bark
+
+Make bark more reflective to reduce evaporation.
