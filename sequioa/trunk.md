@@ -11,7 +11,7 @@ Now barks at dogs as well as cats
 ### Increased thickness
 
 Greatly improve resistance to overheating in fire situation.
-This tree has not been skipping workouts
+This tree has not been skipping workouts. and this.
 
 ### Reduced sap content
 
