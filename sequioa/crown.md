@@ -13,4 +13,4 @@ Handle chemical data conversion and output.
 
 ### Rounded leaves
 
-Leaves that follow an ellips with a = 1 and b = 2, as ellipses are round
+Leaves that follow an ellips with a = 1 and b = 2, as ellipses can be circles, and therefore round
