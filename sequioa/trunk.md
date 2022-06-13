@@ -15,6 +15,6 @@ Greatly improve resistance to overheating in fire situation.
 
 Keeping the `bark` dry means we leave less opporunities for things to catch on fire.
 
-## Water retention
+## Reduce the water Bill (Gates)
 
-Implementation of H2FLow technology reduces the undesired water losses.
+Implementation of Bill Gates technology reduces the undesired water losses.
