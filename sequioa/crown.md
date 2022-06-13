@@ -1,6 +1,6 @@
 # Crown
 
-The topend of our application that handles all the complex functionalities.
+A large shield of curly leaves. Take in as much sun light as possbile.
 
 ## Branches
 
