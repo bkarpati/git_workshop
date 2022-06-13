@@ -15,6 +15,5 @@ Greatly improve resistance to overheating in fire situation.
 
 Keeping the `bark` dry means we leave less opporunities for things to catch on fire.
 
-## Water storage 
-
-Ensuring water storage technique is implemented and followed
+##Water Storage 
+Water storgae to be 30%-40% 
