@@ -17,4 +17,4 @@ Keeping the `bark` dry means we leave less opporunities for things to catch on f
 
 ## water storage
 
-save water
+don't save water
