@@ -14,3 +14,7 @@ Greatly improve resistance to overheating in fire situation.
 ### Redcuded sap content
 
 Keeping the `bark` dry means we leave less opporunities for things to catch on fire.
+
+### Water storage 
+
+Ensuring water storage technique is implemented and followed
