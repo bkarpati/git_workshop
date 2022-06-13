@@ -17,4 +17,4 @@ Keeping the `bark` dry means we leave less opporunities for things to catch on f
 ## Water storage
 
 All evidence indicates that tree trunk internal water storage contributes from 6 to 28% of the daily water budget of large trees depending on the species.
-All evidence indicates that tree trunk internal water storage contributes from 6 to 28% of the daily water budget of large trees depending on the species.
+
