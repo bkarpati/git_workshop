@@ -10,4 +10,7 @@ Provide the support and connection between the higher level sub-modules and the 
 
 Display green colour.
 Handle chemical data conversion and output.
-Curly shapes
+
+### Square leaves
+
+Symmetry is hip as it leads to more synergy
