@@ -18,3 +18,7 @@ Keeping the `bark` dry means we leave less opporunities for things to catch on f
 ### Increase moss volume
 
 Adding moss on the `bark` help retaining more humidity.
+
+### Water storage - Champagne shower
+
+I'm adding water storage so the tree never gets thirsty! You got it yoh.
