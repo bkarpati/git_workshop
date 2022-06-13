@@ -18,3 +18,8 @@ Keeping the `bark` dry means we leave less opportunities for things to catch on 
 ### Bleach bark
 
 Make bark more reflective to reduce evaporation.
+
+## Water storage
+
+Store water 101
+When: now
