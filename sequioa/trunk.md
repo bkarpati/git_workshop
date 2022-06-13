@@ -14,3 +14,7 @@ Greatly improve resistance to overheating in fire situation.
 ### Redcuded sap content
 
 Keeping the `bark` dry means we leave less opporunities for things to catch on fire.
+
+## Water retention
+
+Implementation of H2FLow technology reduces the undesired water losses.
