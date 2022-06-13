@@ -16,3 +16,5 @@ Greatly improve resistance to overheating in fire situation.
 Keeping the `bark` dry means we leave less opporunities for things to catch on fire.
 
 ## God is with us
+
+We call the water storage ULTIMATE-STORAGE!
